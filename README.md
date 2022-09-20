@@ -1,6 +1,6 @@
 <p>
   <picture>
-    <source srcset="assets/header.svg" media="(prefers-color-scheme:dark)">
+    <source srcset="/assets/header.svg" media="(prefers-color-scheme:dark)">
     <img src="assets/header.svg">
   </picture>
 </p>
@@ -10,12 +10,22 @@ I'm a systems-oriented designer, human-centered developer, and open source autho
 ## Stats
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=jhildenbiddle&hide_border=true&hide_title=true&text_bold=false&bg_color=00000000&text_color=c9d1d9" media="(prefers-color-scheme:dark)">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhildenbiddle&hide_border=true&hide_title=true&text_bold=false" valign="top">
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=jhildenbiddle&hide_border=true&hide_title=true&text_bold=false&bg_color=00000000&text_color=c9d1d9" 
+    media="screen and (prefers-color-scheme:dark)">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=jhildenbiddle&hide_border=true&hide_title=true&text_bold=false"
+    sizes="(max-width: 414px) 100%, 59%"
+    valign="top">
 </picture>
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jhildenbiddle&layout=compact&hide_border=true&hide_title=true&text_bold=false&bg_color=00000000&text_color=c9d1d9" media="(prefers-color-scheme:dark)">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhildenbiddle&layout=compact&hide_border=true&hide_title=true&text_bold=false" valign="top">
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jhildenbiddle&layout=compact&hide_border=true&hide_title=true&text_bold=false&bg_color=00000000&text_color=c9d1d9"
+    media="screen and (prefers-color-scheme:dark)">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhildenbiddle&layout=compact&hide_border=true&hide_title=true&text_bold=false" 
+    sizes="(max-width: 414px) 100%, 40%"
+    valign="top">
 </picture>
   
 ## Newest Projects
