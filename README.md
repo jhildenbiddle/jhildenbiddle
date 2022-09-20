@@ -15,8 +15,9 @@ I'm a systems-oriented designer, human-centered developer, and open source autho
     media="screen and (prefers-color-scheme:dark)">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=jhildenbiddle&hide_border=true&hide_title=true&text_bold=false"
-    sizes="(min-width: 415px) 59%"
-    valign="top">
+    sizes="(max-width: 415px) 100%"
+    valign="top"
+    width="59%">
 </picture>
 <picture>
   <source
@@ -24,8 +25,9 @@ I'm a systems-oriented designer, human-centered developer, and open source autho
     media="screen and (prefers-color-scheme:dark)">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhildenbiddle&layout=compact&hide_border=true&hide_title=true&text_bold=false" 
-    sizes="(min-width: 415px) 40%"
-    valign="top">
+    sizes="(max-width: 414px) 100%"
+    valign="top"
+    width="40%">
 </picture>
   
 ## Newest Projects
