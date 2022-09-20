@@ -1,6 +1,10 @@
 ![hello](assets/header.svg)
 
-I'm a systems-oriented designer, human-centered developer, and open-source author focused on UI, UX, and DX tools.
+I'm a systems-oriented designer, human-centered developer, and open-source author/contributor focused on UI, UX, and DX tools. You can learn more by visiting the links below or checking out my projects here on GitHub.
+
+- [Website](https://hildenbiddle.com)
+- [Twitter](https://twitter.com/jhildenbiddle)
+- [LinkedIn](https://www.linkedin.com/in/jhildenbiddle/)
 
 ## Stats
 
