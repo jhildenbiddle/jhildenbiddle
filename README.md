@@ -1,4 +1,4 @@
-![hello](assets/header.svg)<br>
+![hello](assets/header.svg)
 
 I'm a systems-oriented designer, human-centered developer, and open-source author focused on UI, UX, and DX tools.
 
@@ -22,7 +22,7 @@ I'm a systems-oriented designer, human-centered developer, and open-source autho
     alt="Top languages"
     valign="top">
 </picture>
-  
+
 ## Newest Projects
 
 <p>
