@@ -12,22 +12,26 @@ I'm a systems-oriented designer, human-centered developer, and open source autho
 <picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api?username=jhildenbiddle&hide_border=true&hide_title=true&text_bold=false&bg_color=00000000&text_color=c9d1d9" 
-    media="screen and (prefers-color-scheme:dark)">
+    media="screen and (prefers-color-scheme:dark)"
+    sizes="(min-width: 415px) 59%">
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=jhildenbiddle&hide_border=true&hide_title=true&text_bold=false&" 
+    sizes="(min-width: 415px) 59%">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=jhildenbiddle&hide_border=true&hide_title=true&text_bold=false"
-    sizes="(max-width: 415px) 100%"
-    valign="top"
-    width="59%">
+    valign="top">
 </picture>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jhildenbiddle&layout=compact&hide_border=true&hide_title=true&text_bold=false&bg_color=00000000&text_color=c9d1d9"
-    media="screen and (prefers-color-scheme:dark)">
+    media="screen and (prefers-color-scheme:dark)"
+    sizes="(min-width: 415px) 40%">
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jhildenbiddle&layout=compact&hide_border=true&hide_title=true&text_bold=false"
+    sizes="(min-width: 415px) 40%">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhildenbiddle&layout=compact&hide_border=true&hide_title=true&text_bold=false" 
-    sizes="(max-width: 414px) 100%"
-    valign="top"
-    width="40%">
+    valign="top">
 </picture>
   
 ## Newest Projects
