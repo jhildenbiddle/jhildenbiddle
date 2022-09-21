@@ -10,10 +10,10 @@ I'm a systems-oriented designer, human-centered developer, and open-source autho
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jhildenbiddle&hide_border=true&hide_title=true&text_bold=false&bg_color=00000000&text_color=c9d1d9"
+    srcset="https://github-readme-stats.vercel.app/api?username=jhildenbiddle&card_width=490&hide_border=true&hide_title=true&text_bold=false&bg_color=00000000&text_color=c9d1d9"
     media="screen and (prefers-color-scheme:dark)">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=jhildenbiddle&hide_border=true&hide_title=true&text_bold=false"
+    src="https://github-readme-stats.vercel.app/api?username=jhildenbiddle&card_width=490&hide_border=true&hide_title=true&text_bold=false"
     alt="Github statistics"
     valign="top">
 </picture>
