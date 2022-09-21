@@ -2,6 +2,18 @@
 
 I'm a systems-oriented designer, human-centered developer, and open-source author/contributor focused on UI, UX, and DX tools.
 
+##### About
+
+👦🏻❤️&nbsp;&nbsp;Proud papa.<br>
+👩🏻💍&nbsp;&nbsp;Happy husband.<br>
+☀️🎸&nbsp;&nbsp;Currently in Austin, TX.<br>
+🌧☕️&nbsp;&nbsp;Previously from Seattle, WA.<br>
+👨🏻‍💻👨🏻‍🎨&nbsp;&nbsp;20+ years experience.<br>
+🍎📱&nbsp;&nbsp;Unapologetic Apple fan.<br>
+🧘🏻‍♂️💭&nbsp;&nbsp;Life is short. Be kind.
+
+##### Contact
+
 - [Website](https://hildenbiddle.com)
 - [Twitter](https://twitter.com/jhildenbiddle)
 - [LinkedIn](https://www.linkedin.com/in/jhildenbiddle/)
