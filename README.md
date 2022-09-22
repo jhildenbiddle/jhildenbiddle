@@ -12,12 +12,6 @@ I'm a systems-oriented designer, human-centered developer, and open-source autho
 🍎🤖&nbsp;&nbsp;Also interested in Swift and AI/ML.<br>
 🧘🏻‍♂️💭&nbsp;&nbsp;Life is short. Be kind.
 
-##### Contact
-
-- [Website](https://hildenbiddle.com)
-- [Twitter](https://twitter.com/jhildenbiddle)
-- [LinkedIn](https://www.linkedin.com/in/jhildenbiddle/)
-
 ## Stats
 
 <picture>
