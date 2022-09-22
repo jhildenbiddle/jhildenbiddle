@@ -6,11 +6,20 @@ I'm a systems-oriented designer, human-centered developer, and open-source autho
 
 👦🏻❤️&nbsp;&nbsp;Proud papa.<br>
 👩🏻💍&nbsp;&nbsp;Happy husband.<br>
-☀️🎸&nbsp;&nbsp;Currently in Austin, TX.<br>
+☀️🎸&nbsp;&nbsp;Living in Austin, TX.<br>
 🌧☕️&nbsp;&nbsp;Previously from Seattle, WA.<br>
 👨🏻‍💻👨🏻‍🎨&nbsp;&nbsp;20+ years in UI/UX design & web developement.<br>
-🍎🤖&nbsp;&nbsp;Also interested in Swift and AI/ML.<br>
+🍎🤖&nbsp;&nbsp;Would like to learn Swift and AI/ML.<br>
 🧘🏻‍♂️💭&nbsp;&nbsp;Life is short. Be kind.
+
+##### More
+
+<a href="https://hildenbiddle.com"><img src="/assets/website.svg" alt="Website favicon" width="28" valign="middle">&nbsp;&nbsp;Personal Website</a><br>
+<a href="https://twitter.com/jhildenbiddle"><img src="/assets/twitter.svg" alt="Twitter logo" width="28" valign="middle">&nbsp;&nbsp;Twitter</a><br>
+<a href="https://www.linkedin.com/in/jhildenbiddle/"><img src="/assets/linkedin.svg" alt="LinkedIn logo" width="28" valign="middle">&nbsp;&nbsp;LinkedIn</a><br>
+<a href="https://stackoverflow.com/users/4903063/jhildenbiddle"><img src="/assets/stackoverflow.svg" alt="StackOverflow logo" width="28" valign="middle">&nbsp;&nbsp;StackOverflow</a><br>
+<a href="https://codepen.io/jhildenbiddle"><img src="/assets/codepen.svg" alt="CodePen logo" width="28" valign="middle">&nbsp;&nbsp;CodePen</a><br>
+<a href="https://github.com/jhildenbiddle?tab=repositories"><img src="/assets/github.svg" alt="GitHub logo" width="28" valign="middle">&nbsp;&nbsp;GitHub Repositories</a>
 
 ## Stats
 
