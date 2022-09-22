@@ -14,12 +14,20 @@ I'm a systems-oriented designer, human-centered developer, and open-source autho
 
 #### Elsewhere
 
-<a href="https://hildenbiddle.com"><img src="/assets/website.svg" alt="Website favicon" width="28" valign="middle">&nbsp;&nbsp;Personal Website</a><br>
-<a href="https://twitter.com/jhildenbiddle"><img src="/assets/twitter.svg" alt="Twitter logo" width="28" valign="middle">&nbsp;&nbsp;Twitter</a><br>
-<a href="https://www.linkedin.com/in/jhildenbiddle/"><img src="/assets/linkedin.svg" alt="LinkedIn logo" width="28" valign="middle">&nbsp;&nbsp;LinkedIn</a><br>
-<a href="https://stackoverflow.com/users/4903063/jhildenbiddle"><img src="/assets/stackoverflow.svg" alt="StackOverflow logo" width="28" valign="middle">&nbsp;&nbsp;StackOverflow</a><br>
-<a href="https://codepen.io/jhildenbiddle"><img src="/assets/codepen.svg" alt="CodePen logo" width="28" valign="middle">&nbsp;&nbsp;CodePen</a><br>
-<a href="https://github.com/jhildenbiddle?tab=repositories"><img src="/assets/github.svg" alt="GitHub logo" width="28" valign="middle">&nbsp;&nbsp;GitHub Repositories</a>
+<a href="https://hildenbiddle.com"><img src="/assets/website.svg" alt="Website favicon" width="28" valign="middle"></a>&nbsp;
+<a href="https://hildenbiddle.com">Personal Website</a><br>
+<a href="https://twitter.com/jhildenbiddle"><img src="/assets/twitter.svg" alt="Twitter logo" width="28" valign="middle"></a>&nbsp;
+<a href="https://twitter.com/jhildenbiddle">Twitter</a><br>
+<a href="https://www.linkedin.com/in/jhildenbiddle/"><img src="/assets/linkedin.svg" alt="LinkedIn logo" width="28" valign="middle"></a>&nbsp;
+<a href="https://www.linkedin.com/in/jhildenbiddle/">LinkedIn</a><br>
+<a href="https://www.behance.net/jhildenbiddle"><img src="/assets/behance.svg" alt="Behance logo" width="28" valign="middle"></a>&nbsp;
+<a href="https://www.behance.net/jhildenbiddle">Behance</a><br>
+<a href="https://stackoverflow.com/users/4903063/jhildenbiddle"><img src="/assets/stackoverflow.svg" alt="StackOverflow logo" width="28" valign="middle"></a>&nbsp;
+<a href="https://stackoverflow.com/users/4903063/jhildenbiddle">StackOverflow</a><br>
+<a href="https://codepen.io/jhildenbiddle"><img src="/assets/codepen.svg" alt="CodePen logo" width="28" valign="middle"></a>&nbsp;
+<a href="https://codepen.io/jhildenbiddle">CodePen</a><br>
+<a href="https://github.com/jhildenbiddle?tab=repositories"><img src="/assets/github.svg" alt="GitHub logo" width="28" valign="middle"></a>&nbsp;
+<a href="https://github.com/jhildenbiddle?tab=repositories">GitHub Repositories</a>
 
 ## Stats
 
