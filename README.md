@@ -30,16 +30,14 @@ I'm a systems-oriented designer, human-centered developer, and open-source autho
       srcset="/assets/codepen-dark.svg" media="screen and (prefers-color-scheme:dark)">
     <img src="/assets/codepen.svg" alt="CodePen logo" width="28" valign="middle">
   </picture>
-</a>&nbsp;
-<a href="https://codepen.io/jhildenbiddle">CodePen</a><br>
+</a>&nbsp;<a href="https://codepen.io/jhildenbiddle">CodePen</a><br>
 <a href="https://github.com/jhildenbiddle?tab=repositories">
   <picture>
     <source
       srcset="/assets/github-dark.svg" media="screen and (prefers-color-scheme:dark)">
     <img src="/assets/github.svg" alt="GitHub logo" width="28" valign="middle">
   </picture>
-</a>&nbsp;
-<a href="https://github.com/jhildenbiddle?tab=repositories">GitHub Repositories</a>
+</a>&nbsp;<a href="https://github.com/jhildenbiddle?tab=repositories">GitHub Repositories</a>
 
 ## Stats
 
