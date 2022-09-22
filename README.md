@@ -2,7 +2,7 @@
 
 I'm a systems-oriented designer, human-centered developer, and open-source author focused on UI, UX, and DX tools.
 
-##### About
+#### About
 
 👦🏻❤️&nbsp;&nbsp;Proud papa.<br>
 👩🏻💍&nbsp;&nbsp;Happy husband.<br>
@@ -12,7 +12,7 @@ I'm a systems-oriented designer, human-centered developer, and open-source autho
 🍎🤖&nbsp;&nbsp;Would like to learn Swift and AI/ML.<br>
 🧘🏻‍♂️💭&nbsp;&nbsp;Life is short. Be kind.
 
-##### More
+#### Elsewhere
 
 <a href="https://hildenbiddle.com"><img src="/assets/website.svg" alt="Website favicon" width="28" valign="middle">&nbsp;&nbsp;Personal Website</a><br>
 <a href="https://twitter.com/jhildenbiddle"><img src="/assets/twitter.svg" alt="Twitter logo" width="28" valign="middle">&nbsp;&nbsp;Twitter</a><br>
