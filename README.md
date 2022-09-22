@@ -8,8 +8,8 @@ I'm a systems-oriented designer, human-centered developer, and open-source autho
 👩🏻💍&nbsp;&nbsp;Happy husband.<br>
 ☀️🎸&nbsp;&nbsp;Currently in Austin, TX.<br>
 🌧☕️&nbsp;&nbsp;Previously from Seattle, WA.<br>
-👨🏻‍💻👨🏻‍🎨&nbsp;&nbsp;20+ years experience.<br>
-🍎📱&nbsp;&nbsp;Unapologetic Apple fan.<br>
+👨🏻‍💻👨🏻‍🎨&nbsp;&nbsp;20+ years in UI/UX design & web developement.<br>
+🍎🤖&nbsp;&nbsp;Also interested in Swift and AI/ML.<br>
 🧘🏻‍♂️💭&nbsp;&nbsp;Life is short. Be kind.
 
 ##### Contact
