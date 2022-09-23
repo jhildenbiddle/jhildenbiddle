@@ -20,8 +20,8 @@ I'm a systems-oriented designer, human-centered developer, and open-source autho
 <a href="https://twitter.com/jhildenbiddle">Twitter</a><br>
 <a href="https://www.linkedin.com/in/jhildenbiddle/"><img src="/assets/linkedin.svg" alt="LinkedIn logo" width="28" valign="middle"></a>&nbsp;
 <a href="https://www.linkedin.com/in/jhildenbiddle/">LinkedIn</a><br>
-<a href="https://stackoverflow.com/users/4903063/jhildenbiddle"><img src="/assets/stackoverflow.svg" alt="StackOverflow logo" width="28" valign="middle"></a>&nbsp;
-<a href="https://stackoverflow.com/users/4903063/jhildenbiddle">StackOverflow</a><br>
+<a href="https://stackoverflow.com/users/4903063/jhildenbiddle"><img src="/assets/stackoverflow.svg" alt="Stack Overflow logo" width="28" valign="middle"></a>&nbsp;
+<a href="https://stackoverflow.com/users/4903063/jhildenbiddle">Stack Overflow</a><br>
 <a href="https://codepen.io/jhildenbiddle">
   <picture>
     <source
