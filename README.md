@@ -22,12 +22,22 @@ I'm a systems-oriented designer, human-centered developer, and open-source autho
 <a href="https://www.linkedin.com/in/jhildenbiddle/">LinkedIn</a><br>
 <a href="https://www.behance.net/jhildenbiddle"><img src="/assets/behance.svg" alt="Behance logo" width="28" valign="middle"></a>&nbsp;
 <a href="https://www.behance.net/jhildenbiddle">Behance</a><br>
-<a href="https://stackoverflow.com/users/4903063/jhildenbiddle"><img src="/assets/stackoverflow.svg" alt="Stack Overflow logo" width="28" valign="middle"></a>&nbsp;
-<a href="https://stackoverflow.com/users/4903063/jhildenbiddle">Stack Overflow</a><br>
-<a href="https://codepen.io/jhildenbiddle"><img src="/assets/codepen.svg" alt="CodePen logo" width="28" valign="middle"></a>&nbsp;
-<a href="https://codepen.io/jhildenbiddle">CodePen</a><br>
-<a href="https://github.com/jhildenbiddle?tab=repositories"><img src="/assets/github.svg" alt="GitHub logo" width="28" valign="middle"></a>&nbsp;
-<a href="https://github.com/jhildenbiddle?tab=repositories">GitHub Repositories</a><br>
+<a href="https://stackoverflow.com/users/4903063/jhildenbiddle"><img src="/assets/stackoverflow.svg" alt="StackOverflow logo" width="28" valign="middle"></a>&nbsp;
+<a href="https://stackoverflow.com/users/4903063/jhildenbiddle">StackOverflow</a><br>
+<a href="https://codepen.io/jhildenbiddle">
+  <picture>
+    <source
+      srcset="/assets/codepen-dark.svg" media="screen and (prefers-color-scheme:dark)">
+    <img src="/assets/codepen.svg" alt="CodePen logo" width="28" valign="middle">
+  </picture>
+</a>&nbsp;<a href="https://codepen.io/jhildenbiddle">CodePen</a><br>
+<a href="https://github.com/jhildenbiddle?tab=repositories">
+  <picture>
+    <source
+      srcset="/assets/github-dark.svg" media="screen and (prefers-color-scheme:dark)">
+    <img src="/assets/github.svg" alt="GitHub logo" width="28" valign="middle">
+  </picture>
+</a>&nbsp;<a href="https://github.com/jhildenbiddle?tab=repositories">GitHub Repositories</a>
 
 ## Stats
 
