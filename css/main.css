@@ -1,0 +1,309 @@
+@import url('https://rsms.me/inter/inter.css');
+
+/* Variables */
+/* ========================================================================== */
+:root {
+  /* Color */
+  --primary-color   : hsl(18, 100%, 65%);
+  --bg-color        : hsl(192, 100%, 14%); /* Update <meta name="theme-color"> */
+  --text-color      : hsl(208, 40%, 88%);
+  --text-color-shade: hsl(198, 31%, 37%);
+  --text-color-tint : #fff;
+
+  /* Typography */
+  --font-family-mono :
+    ui-monospace,
+    "Menlo", /* macOS 10.10+ */
+    "Consolas", /* Windows 6+ */
+    "Roboto Mono", /* Android 4+ */
+    "Ubuntu Monospace", /* Ubuntu 10.10+ */
+    "Noto Mono", /* KDE Plasma 5+ */
+    "Oxygen Mono", /* KDE Plasma 4+ */
+    "Liberation Mono", /* Linux/OpenOffice fallback */
+    monospace, /* fallback */
+    "Apple Color Emoji", /* macOS emoji */
+    "Segoe UI Emoji", /* Windows emoji */
+    "Segoe UI Symbol", /* Windows emoji */
+    "Noto Color Emoji"; /* Linux emoji */
+  --font-family-sans :
+    Inter,
+    system-ui,
+    -apple-system, /* macOS 10.11-10.12 */
+    "Segoe UI", /* Windows 6+ */
+    "Roboto", /* Android 4+ */
+    "Ubuntu", /* Ubuntu 10.10+ */
+    "Cantarell", /* Gnome 3+ */
+    "Noto Sans", /* KDE Plasma 5+ */
+    sans-serif, /* fallback */
+    "Apple Color Emoji", /* macOS emoji */
+    "Segoe UI Emoji", /* Windows emoji */
+    "Segoe UI Symbol", /* Windows emoji */
+    "Noto Color Emoji"; /* Linux emoji */
+  --font-family-sans-variable: 'Inter var', var(--font-family-sans);
+  --font-scale    : 1.414; /* 1.067, 1.125, 1.200, 1.250, 1.333, 1.414, 1.500, 1.618 */
+  --font-size-xxl : calc(var(--font-size-xl) * var(--font-scale));
+  --font-size-xl  : calc(var(--font-size-l) * var(--font-scale));
+  --font-size-l   : calc(1rem * var(--font-scale));
+  --font-size-m   : 18px;
+  --font-size-s   : max(0.75rem, calc(1rem / var(--font-scale)));
+  --font-size-xs  : max(0.6875rem, calc(var(--font-size-s) / var(--font-scale)));
+  --font-weight   : 300;
+  --letter-spacing: 0.0px;
+  /* Optimal line-height */
+  /* See: https://www.joshwcomeau.com/css/custom-css-reset/ */
+  /* See: https://kittygiraudel.com/2020/05/18/using-calc-to-figure-out-optimal-line-height/ */
+  --line-height: calc(1em + 0.5rem);
+
+  /* Elements */
+  --heading-color: var(--text-color-shade);
+  --heading-font-weight: 700;
+  --strong-color: var(--text-color-tint);
+  --strong-font-weight: 700;
+}
+
+@supports (color: color(display-p3 1 1 1)) {
+  :root {
+    --primary-color: color(display-p3 1 0.556 0.355);
+    --bg-color: color(display-p3 0.05 0.249 0.32);
+  }
+}
+
+/* Normalize / Reset */
+/* ========================================================================== */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  line-height: var(--line-height);
+}
+
+html,
+body {
+  height: 100%;
+  background-color: var(--bg-color);
+}
+
+html {
+  font-family: var(--font-family-sans, sans-serif);
+  font-size: var(--font-size-m);
+  font-weight: var(--font-weight);
+  letter-spacing: var(--letter-spacing);
+  color: var(--text-color);
+}
+
+@supports (font-variation-settings: normal) {
+  html {
+    font-family: var(--font-family-sans-variable);
+  }
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+}
+
+a,
+button {
+  cursor: revert;
+}
+
+b,
+strong {
+  font-weight: var(--strong-font-weight);
+  color: var(--strong-color);
+}
+
+code,
+kbd,
+samp,
+pre {
+  font-family: var(--font-family-mono);
+}
+
+p
+:where(h1, h2, h3, h4, h5) {
+  overflow-wrap: break-word;
+}
+
+:where(h1, h2, h3, h4, h5) {
+  font-weight: var(--heading-font-weight);
+  color: var(--heading-color);
+}
+
+:where(h2, h3, h4, h5) {
+  margin-top: 1.75rem;
+}
+
+h1 {
+  margin-bottom: 1rem;
+  font-size: var(--font-size-xxl);
+}
+
+h2 {
+  margin-bottom: 0.75rem;
+  font-size: var(--font-size-xl);
+}
+
+h3 {
+  margin-bottom: 0.75rem;
+  font-size: var(--font-size-l);
+}
+
+h4 {
+  margin-bottom: 0.5rem;
+  font-size: var(--font-size-m);
+}
+
+h5 {
+  margin-bottom: 0.5rem;
+  font-size: var(--font-size-s);
+}
+
+p:not(:first-child) {
+  margin-top: 1em;
+}
+
+p:not(:last-child) {
+  margin-bottom: 1em;
+}
+
+iframe {
+  border: 0;
+}
+
+img,
+picture,
+video,
+canvas,
+svg {
+  display: block;
+  max-width: 100%;
+}
+
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+input,
+textarea {
+  -webkit-user-select: auto;
+}
+
+textarea {
+  white-space: revert;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+td,
+th {
+  padding: 0;
+}
+
+menu,
+ol,
+ul {
+  list-style: none;
+}
+
+/* Utility */
+/* ========================================================================== */
+.color-primary {
+  color: var(--primary-color);
+}
+
+/* Layout */
+/* ========================================================================== */
+.layout {
+  position: relative;
+  display: grid;
+  grid-template-areas:
+    "sidebar"
+    "main"
+    "footer";
+  grid-template-rows: 1fr 2.25fr min-content;
+  gap: 3vh;
+  height: 100%;
+  padding: 10vw;
+}
+
+/* Elements */
+/* ========================================================================== */
+header {
+  grid-area: sidebar;
+
+  display: grid;
+  align-items: end;
+  font-size: clamp(4rem, 8vw, 8rem);
+  font-weight: 600;
+  letter-spacing: -1.15px;
+  color: var(--text-color-tint);
+}
+
+main {
+  grid-area: main;
+}
+
+footer {
+  grid-area: footer;
+}
+
+menu.icons {
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+menu.icons svg {
+  --fill: var(--text-color-shade);
+  --size: 28px;
+
+  width: var(--size);
+  height: var(--size);
+  transition: var(--fill) 1s;
+}
+
+menu.icons svg.linkedin {
+  --fill2: none;
+}
+
+menu.icons svg:hover {
+  --fill: unset;
+}
+
+menu.icons :is(svg.behance, svg.codepen, svg.github):hover {
+  --fill: #fff;
+}
+
+menu.icons :is(svg.linkedin):hover {
+  --fill2: unset;
+}
+
+@media (min-width: 600px) {
+  .layout {
+    grid-template-areas:
+      "sidebar . main   ."
+      ".       . footer .";
+    grid-template-columns: max-content 1fr minmax(auto, 45ch) 1fr;
+    grid-template-rows: 1fr min-content;
+    padding: 5vw;
+  }
+
+  header {
+    align-items: center;
+  }
+
+  main {
+    display: grid;
+    align-items: center;
+  }
+}
