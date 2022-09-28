@@ -9,7 +9,7 @@ I'm a systems-oriented designer, human-centered developer, and open-source autho
 ☀️🎸&nbsp;&nbsp;Living in Austin, TX<br>
 🌧☕️&nbsp;&nbsp;Previously from Seattle, WA<br>
 👨🏻‍🎨👨🏻‍💻&nbsp;&nbsp;20+ years in UI/UX & Web Dev<br>
-🍎🤖&nbsp;&nbsp;Would like to learn Swift and AI/ML<br>
+🍎🤖&nbsp;&nbsp;Intrigued by Swift and AI/ML<br>
 🧘🏻‍♂️💭&nbsp;&nbsp;Life is short. Be kind.
 
 #### Elsewhere
