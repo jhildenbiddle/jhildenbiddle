@@ -1,4 +1,4 @@
-![hello](assets/header.svg)
+<img src="/assets/header.svg" alt="Hello." width="100%">
 
 I'm a systems-oriented designer, human-centered developer, and open-source author of UI, UX, and DX tools.
 
