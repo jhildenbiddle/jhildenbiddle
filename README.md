@@ -1,6 +1,6 @@
 ![hello](assets/header.svg)
 
-I'm a systems-oriented designer, human-centered developer, and open-source author focused on UI, UX, and DX tools.
+I'm a systems-oriented designer, human-centered developer, and open-source author of UI, UX, and DX tools.
 
 #### About
 
