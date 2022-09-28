@@ -14,19 +14,19 @@ I'm a systems-oriented designer, human-centered developer, and open-source autho
 
 #### Elsewhere
 
-<a href="https://hildenbiddle.com"><img src="/assets/website.svg" alt="Website favicon" width="28" valign="middle"></a>&nbsp;
+<a href="https://hildenbiddle.com"><img src="/assets/website.svg" alt="Website favicon" width="24" valign="middle"></a>&nbsp;
 <a href="https://hildenbiddle.com">Personal Website</a><br>
-<a href="https://twitter.com/jhildenbiddle"><img src="/assets/twitter.svg" alt="Twitter logo" width="28" valign="middle"></a>&nbsp;
+<a href="https://twitter.com/jhildenbiddle"><img src="/assets/twitter.svg" alt="Twitter logo" width="24" valign="middle"></a>&nbsp;
 <a href="https://twitter.com/jhildenbiddle">Twitter</a><br>
-<a href="https://www.linkedin.com/in/jhildenbiddle/"><img src="/assets/linkedin.svg" alt="LinkedIn logo" width="28" valign="middle"></a>&nbsp;
+<a href="https://www.linkedin.com/in/jhildenbiddle/"><img src="/assets/linkedin.svg" alt="LinkedIn logo" width="24" valign="middle"></a>&nbsp;
 <a href="https://www.linkedin.com/in/jhildenbiddle/">LinkedIn</a><br>
-<a href="https://stackoverflow.com/users/4903063/jhildenbiddle"><img src="/assets/stackoverflow.svg" alt="Stack Overflow logo" width="28" valign="middle"></a>&nbsp;
+<a href="https://stackoverflow.com/users/4903063/jhildenbiddle"><img src="/assets/stackoverflow.svg" alt="Stack Overflow logo" width="24" valign="middle"></a>&nbsp;
 <a href="https://stackoverflow.com/users/4903063/jhildenbiddle">Stack Overflow</a><br>
 <a href="https://codepen.io/jhildenbiddle">
   <picture>
     <source
       srcset="/assets/codepen-dark.svg" media="screen and (prefers-color-scheme:dark)">
-    <img src="/assets/codepen.svg" alt="CodePen logo" width="28" valign="middle">
+    <img src="/assets/codepen.svg" alt="CodePen logo" width="24" valign="middle">
   </picture>
 </a>&nbsp;<a href="https://codepen.io/jhildenbiddle">CodePen</a><br>
 
