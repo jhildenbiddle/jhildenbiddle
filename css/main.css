@@ -4,14 +4,14 @@
 /* ========================================================================== */
 :root {
   /* Color */
-  --primary-color   : hsl(18, 100%, 65%);
-  --bg-color        : hsl(192, 100%, 14%); /* Update <meta name="theme-color"> */
-  --text-color      : hsl(208, 40%, 88%);
+  --primary-color   : hsl(18, 100%, 66%);
+  --bg-color        : hsl(192, 100%, 16%);
+  --text-color      : hsl(0, 0%, 80%);
   --text-color-shade: hsl(198, 31%, 37%);
   --text-color-tint : #fff;
 
-  /* Typography */
-  --font-family-mono :
+  /* Base Font Stacks */
+  --font-stack-mono:
     ui-monospace,
     "Menlo", /* macOS 10.10+ */
     "Consolas", /* Windows 6+ */
@@ -25,8 +25,7 @@
     "Segoe UI Emoji", /* Windows emoji */
     "Segoe UI Symbol", /* Windows emoji */
     "Noto Color Emoji"; /* Linux emoji */
-  --font-family-sans :
-    Inter,
+  --font-stack-system:
     system-ui,
     -apple-system, /* macOS 10.11-10.12 */
     "Segoe UI", /* Windows 6+ */
@@ -39,37 +38,46 @@
     "Segoe UI Emoji", /* Windows emoji */
     "Segoe UI Symbol", /* Windows emoji */
     "Noto Color Emoji"; /* Linux emoji */
-  --font-family-sans-variable: 'Inter var', var(--font-family-sans);
-  --font-scale    : 1.414; /* 1.067, 1.125, 1.200, 1.250, 1.333, 1.414, 1.500, 1.618 */
-  --font-size-xxl : calc(var(--font-size-xl) * var(--font-scale));
-  --font-size-xl  : calc(var(--font-size-l) * var(--font-scale));
-  --font-size-l   : calc(1rem * var(--font-scale));
-  --font-size-m   : 18px;
-  --font-size-s   : max(0.75rem, calc(1rem / var(--font-scale)));
-  --font-size-xs  : max(0.6875rem, calc(var(--font-size-s) / var(--font-scale)));
-  --font-weight   : 300;
-  --letter-spacing: -0.014em;
+
+  /* Typography */
+  --font-family     : Inter, var(--font-stack-system);
+  --font-family-mono: var(--font-stack-mono);
+  --font-scale      : 1.414; /* 1.067, 1.125, 1.200, 1.250, 1.333, 1.414, 1.500, 1.618 */
+  --font-size-xxl   : calc(var(--font-size-xl) * var(--font-scale));
+  --font-size-xl    : calc(var(--font-size-l) * var(--font-scale));
+  --font-size-l     : calc(1rem * var(--font-scale));
+  --font-size-m     : 20px;
+  --font-size-s     : max(0.75rem, calc(1rem / var(--font-scale)));
+  --font-size-xs    : max(0.6875rem, calc(var(--font-size-s) / var(--font-scale)));
+  --font-weight     : 400;
+  --letter-spacing  : -0.017em;
   /* Optimal line-height */
   /* See: https://www.joshwcomeau.com/css/custom-css-reset/ */
   /* See: https://kittygiraudel.com/2020/05/18/using-calc-to-figure-out-optimal-line-height/ */
   --line-height: calc(1em + 0.5rem);
 
   /* Elements */
-  --h1-letter-spacing: -0.022em;
-  --h2-letter-spacing: -0.022em;
-  --h3-letter-spacing: -0.019em;
-  --h4-letter-spacing: -0.014em;
-  --h5-letter-spacing: 0.006em;
-  --heading-color: var(--text-color-shade);
+  --h1-letter-spacing  : -0.022em;
+  --h2-letter-spacing  : -0.022em;
+  --h3-letter-spacing  : -0.020em;
+  --h4-letter-spacing  : var(--letter-spacing);
+  --h5-letter-spacing  : -0.009em;
+  --heading-color      : var(--text-color-shade);
   --heading-font-weight: 700;
-  --strong-color: var(--text-color-tint);
-  --strong-font-weight: 700;
+  --strong-color       : var(--text-color-tint);
+  --strong-font-weight : 700;
 }
 
 @supports (color: color(display-p3 1 1 1)) {
   :root {
     --primary-color: color(display-p3 1 0.556 0.355);
     --bg-color: color(display-p3 0.05 0.249 0.32);
+  }
+}
+
+@supports (font-variation-settings: normal) {
+  :root {
+    --font-family: "Inter var", var(--font-stack-system);
   }
 }
 
@@ -93,17 +101,11 @@ body {
 }
 
 html {
-  font-family: var(--font-family-sans, sans-serif);
+  font-family: var(--font-family, sans-serif);
   font-size: var(--font-size-m);
   font-weight: var(--font-weight);
   letter-spacing: var(--letter-spacing);
   color: var(--text-color);
-}
-
-@supports (font-variation-settings: normal) {
-  html {
-    font-family: var(--font-family-sans-variable);
-  }
 }
 
 body {
