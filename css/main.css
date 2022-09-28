@@ -48,13 +48,18 @@
   --font-size-s   : max(0.75rem, calc(1rem / var(--font-scale)));
   --font-size-xs  : max(0.6875rem, calc(var(--font-size-s) / var(--font-scale)));
   --font-weight   : 300;
-  --letter-spacing: 0.0px;
+  --letter-spacing: -0.014em;
   /* Optimal line-height */
   /* See: https://www.joshwcomeau.com/css/custom-css-reset/ */
   /* See: https://kittygiraudel.com/2020/05/18/using-calc-to-figure-out-optimal-line-height/ */
   --line-height: calc(1em + 0.5rem);
 
   /* Elements */
+  --h1-letter-spacing: -0.022em;
+  --h2-letter-spacing: -0.022em;
+  --h3-letter-spacing: -0.019em;
+  --h4-letter-spacing: -0.014em;
+  --h5-letter-spacing: 0.006em;
   --heading-color: var(--text-color-shade);
   --heading-font-weight: 700;
   --strong-color: var(--text-color-tint);
@@ -140,26 +145,31 @@ p
 h1 {
   margin-bottom: 1rem;
   font-size: var(--font-size-xxl);
+  letter-spacing: var(--h1-letter-spacing);
 }
 
 h2 {
   margin-bottom: 0.75rem;
   font-size: var(--font-size-xl);
+  letter-spacing: var(--h2-letter-spacing);
 }
 
 h3 {
   margin-bottom: 0.75rem;
   font-size: var(--font-size-l);
+  letter-spacing: var(--h3-letter-spacing);
 }
 
 h4 {
   margin-bottom: 0.5rem;
   font-size: var(--font-size-m);
+  letter-spacing: var(--h4-letter-spacing);
 }
 
 h5 {
   margin-bottom: 0.5rem;
   font-size: var(--font-size-s);
+  letter-spacing: var(--h5-letter-spacing);
 }
 
 p:not(:first-child) {
@@ -244,8 +254,8 @@ header {
   display: grid;
   align-items: end;
   font-size: clamp(4rem, 8vw, 8rem);
-  font-weight: 600;
-  letter-spacing: -1.15px;
+  font-weight: 800;
+  /* letter-spacing: -1.15px; */
   color: var(--text-color-tint);
 }
 
