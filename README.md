@@ -1,4 +1,4 @@
-<img src="/assets/header.svg" alt="Hello." width="100%">
+<img src="/assets/header-profile.svg" alt="Hello." width="100%">
 
 I'm a systems-oriented designer, human-centered developer, and open-source author of UI, UX, and DX tools.
 
