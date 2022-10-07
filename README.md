@@ -36,7 +36,7 @@
     media="screen and (prefers-color-scheme:dark)">
   <img
     src="https://github-readme-stats.vercel.app/api?username=jhildenbiddle&card_width=490&hide_border=true&hide_title=true&text_bold=false"
-    width="49%"
+    width="55%"
     alt="Github statistics"
     valign="top">
 </picture><picture>
@@ -45,7 +45,7 @@
     media="screen and (prefers-color-scheme:dark)">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhildenbiddle&layout=compact&hide_border=true&hide_title=true&text_bold=false"
-    width="49%"
+    width="43%"
     alt="Top languages"
     valign="top">
 </picture>
