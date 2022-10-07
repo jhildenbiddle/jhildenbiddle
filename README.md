@@ -49,51 +49,37 @@
     valign="top">
 </picture>
 
-## Newest Projects
+## Noteworthy Projects
 
-<p>
-  <a href="https://github.com/jhildenbiddle/mergician">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=jhildenbiddle&repo=mergician&hide_border=true&bg_color=00000000&text_color=c9d1d9"
-        media="(prefers-color-scheme:dark)">
-      <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=jhildenbiddle&repo=mergician&hide_border=true"
-        alt="Mergician"
-        valign="top">
-    </picture>
-  </a>
-  <a href="https://github.com/jhildenbiddle/typora-themeable">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=jhildenbiddle&repo=typora-themeable&hide_border=true&bg_color=00000000&text_color=c9d1d9"
-        media="(prefers-color-scheme:dark)">
-      <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=jhildenbiddle&repo=typora-themeable&hide_border=true"
-        alt="Typora Themeable"
-        valign="top">
-    </picture>
-  </a>
-  <a href="https://github.com/jhildenbiddle/css-device-frames">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=jhildenbiddle&repo=css-device-frames&hide_border=true&bg_color=00000000&text_color=c9d1d9"
-        media="(prefers-color-scheme:dark)">
-      <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=jhildenbiddle&repo=css-device-frames&hide_border=true"
-        alt="CSS Device Frames"
-        valign="top">
-    </picture>
-  </a>
-  <a href="https://github.com/jhildenbiddle/vertical-rhythm-reset">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=jhildenbiddle&repo=vertical-rhythm-reset&hide_border=true&bg_color=00000000&text_color=c9d1d9"
-        media="(prefers-color-scheme:dark)">
-      <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=jhildenbiddle&repo=vertical-rhythm-reset&hide_border=true"
-        alt="Vertical Rhythm Reset"
-        valign="top">
-    </picture>
-  </a>
-</p>
+### Newest
+
+- [Mergician](https://jhildenbiddle.github.io/mergician)<br>
+  A uniquely flexible and light-weight utility for deep (recursive) merging/cloning of JavaScript objects.
+- [Typora Themeable](https://jhildenbiddle.github.io/typora-themeable)<br>
+  A clean, customizable, typography-focused theme system for the markdown editor, [Typora](https://typora.io/).
+- [CSS Device Frames](https://jhildenbiddle.github.io/css-device-frames)<br>
+  A collection of single-element, CSS-only application and device frames with support for multiple themes and customization via CSS custom properties.
+
+### Docsify
+
+- [docsify.js](https://docsify.js.org)<br>
+  A magical "zero-build" client-side documentation site generator.
+- [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable)<br>
+  A delightfully simple theme system for docsify.js.
+- [docsify-tabs](https://jhildenbiddle.github.io/docsify-tabs)<br>
+  A plugin for rendering tabbed content from markdown.
+- [docsify-plugin-ethicalads](https://jhildenbiddle.github.io/docsify-plugin-ethicalads)<br>
+  A plugin for rendering ad placements from EthicalAds.
+- [docsify-plugin-runkit](https://jhildenbiddle.github.io/docsify-plugin-runkit)<br>
+  A plugin for rendering interactive JavaScript REPLs powered by RunKit.
+
+### Web Development
+
+- [css-vars-ponyfill](https://jhildenbiddle.github.io/css-vars-ponyfill)<br>
+  A ponyfill that provides client-side support for CSS custom properties (aka "CSS variables") in legacy and modern browsers.
+- [canvas-size](https://github.com/jhildenbiddle/canvas-size)<br>
+  Determine the maximum size and custom dimension support of an HTML `<canvas>` element.
+- [vertical-rhythm-reset](https://jhildenbiddle.github.io/vertical-rhythm-reset)<br>
+  A Sass/SCSS library for responsive vertical rhythm grids, modular scale typography, and CSS normalization.
+- [get-css-data](https://github.com/jhildenbiddle/get-css-data)<br>
+  A micro-library for collecting stylesheet data from link and style nodes.
