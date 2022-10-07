@@ -28,6 +28,28 @@
   </picture>
 </a>&nbsp;<a href="https://codepen.io/jhildenbiddle">CodePen</a><br>
 
+## Stats
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jhildenbiddle&card_width=490&hide_border=true&hide_title=true&text_bold=false&bg_color=00000000&text_color=c9d1d9"
+    media="screen and (prefers-color-scheme:dark)">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jhildenbiddle&card_width=490&hide_border=true&hide_title=true&text_bold=false"
+    width="49%"
+    alt="Github statistics"
+    valign="top">
+</picture><picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jhildenbiddle&layout=compact&hide_border=true&hide_title=true&text_bold=false&bg_color=00000000&text_color=c9d1d9"
+    media="screen and (prefers-color-scheme:dark)">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhildenbiddle&layout=compact&hide_border=true&hide_title=true&text_bold=false"
+    width="49%"
+    alt="Top languages"
+    valign="top">
+</picture>
+
 ## Noteworthy Projects
 
 ### Newest
@@ -62,23 +84,3 @@
   A Sass/SCSS library for responsive vertical rhythm grids, modular scale typography, and CSS normalization.
 - [get-css-data](https://github.com/jhildenbiddle/get-css-data)<br>
   A micro-library for collecting stylesheet data from link and style nodes.
-
-## Stats
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jhildenbiddle&card_width=490&hide_border=true&hide_title=true&text_bold=false&bg_color=00000000&text_color=c9d1d9"
-    media="screen and (prefers-color-scheme:dark)">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jhildenbiddle&card_width=490&hide_border=true&hide_title=true&text_bold=false"
-    alt="Github statistics"
-    valign="top">
-</picture><picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jhildenbiddle&layout=compact&hide_border=true&hide_title=true&text_bold=false&bg_color=00000000&text_color=c9d1d9"
-    media="screen and (prefers-color-scheme:dark)">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhildenbiddle&layout=compact&hide_border=true&hide_title=true&text_bold=false"
-    alt="Top languages"
-    valign="top">
-</picture>
