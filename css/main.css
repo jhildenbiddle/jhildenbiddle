@@ -46,11 +46,11 @@
   --font-size-xxl   : calc(var(--font-size-xl) * var(--font-scale));
   --font-size-xl    : calc(var(--font-size-l) * var(--font-scale));
   --font-size-l     : calc(1rem * var(--font-scale));
-  --font-size-m     : 20px;
+  --font-size-m     : 18px;
   --font-size-s     : max(0.75rem, calc(1rem / var(--font-scale)));
   --font-size-xs    : max(0.6875rem, calc(var(--font-size-s) / var(--font-scale)));
   --font-weight     : 400;
-  --letter-spacing  : -0.017em;
+  --letter-spacing  : -0.014em;
   /* Optimal line-height */
   /* See: https://www.joshwcomeau.com/css/custom-css-reset/ */
   /* See: https://kittygiraudel.com/2020/05/18/using-calc-to-figure-out-optimal-line-height/ */
@@ -59,9 +59,9 @@
   /* Elements */
   --h1-letter-spacing  : -0.022em;
   --h2-letter-spacing  : -0.022em;
-  --h3-letter-spacing  : -0.020em;
+  --h3-letter-spacing  : -0.019em;
   --h4-letter-spacing  : var(--letter-spacing);
-  --h5-letter-spacing  : -0.009em;
+  --h5-letter-spacing  : -0.006em;
   --heading-color      : var(--text-color-shade);
   --heading-font-weight: 700;
   --strong-color       : var(--text-color-tint);
