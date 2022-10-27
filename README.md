@@ -1,5 +1,7 @@
 <img src="/assets/header-profile.svg" alt="Hello." width="100%">
 
+I'm a systems-oriented designer, human-centered developer, and open-source author of UI, UX, and DX tools.
+
 #### About
 
 👦🏻❤️&nbsp;&nbsp;Proud papa<br>
@@ -9,6 +11,16 @@
 👨🏻‍🎨👨🏻‍💻&nbsp;&nbsp;20+ years in UI/UX & Web Dev<br>
 🍎🤖&nbsp;&nbsp;Intrigued by Swift and AI/ML<br>
 🧘🏻‍♂️💭&nbsp;&nbsp;Life is short. Be kind.
+
+I launched my first open-source project here on GitHub back in 2016. Since that time I've created and contributed to dozens of projects, most notably as a core team member of [docsify.js](https://github.com/docsifyjs/docsify), the creator of docsify-related projects like [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable), and the creator of web development libraries like [css-vars-ponyfill](https://github.com/jhildenbiddle/css-vars-ponyfill). The positive reaction to these efforts has been the motivation for continuing to do this work. Countless hours, issues, and PRs later, I am still excited to be a part of the open-source community.
+
+#### Sponsorship
+
+A [sponsorship](https://github.com/sponsors/jhildenbiddle) is more than just a way to show appreciation for the open-source authors and projects we rely on; it can be the spark that ignites the next big idea, the inspiration to create something new, and the motivation to share so that others may benefit.
+
+If you benefit from my projects or contributions, please consider lending your support and encouraging future efforts by [becoming a sponsor](https://github.com/sponsors/jhildenbiddle).
+
+Thank you!
 
 #### Elsewhere
 
