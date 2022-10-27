@@ -1,7 +1,5 @@
 <img src="/assets/header-profile.svg" alt="Hello." width="100%">
 
-I'm a systems-oriented designer, human-centered developer, and open-source author of UI, UX, and DX tools.
-
 #### About
 
 👦🏻❤️&nbsp;&nbsp;Proud papa<br>
