@@ -14,14 +14,6 @@ I'm a systems-oriented designer, human-centered developer, and open-source autho
 
 I launched my first open-source project here on GitHub back in 2016. Since that time I've created and contributed to dozens of projects, most notably as a core team member of [docsify.js](https://github.com/docsifyjs/docsify), the creator of docsify-related projects like [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable), and the creator of web development libraries like [css-vars-ponyfill](https://github.com/jhildenbiddle/css-vars-ponyfill). The positive reaction to these efforts has been the motivation for continuing to do this work. Countless hours, issues, and PRs later, I am still excited to be a part of the open-source community.
 
-#### Sponsorship
-
-A [sponsorship](https://github.com/sponsors/jhildenbiddle) is more than just a way to show appreciation for the open-source authors and projects we rely on; it can be the spark that ignites the next big idea, the inspiration to create something new, and the motivation to share so that others may benefit.
-
-If you benefit from my projects or contributions, please consider lending your support and encouraging future efforts by [becoming a sponsor](https://github.com/sponsors/jhildenbiddle).
-
-Thank you!
-
 #### Elsewhere
 
 <a href="https://hildenbiddle.com"><img src="/assets/website.svg" alt="Website favicon" width="24" valign="middle"></a>&nbsp;
@@ -40,7 +32,7 @@ Thank you!
   </picture>
 </a>&nbsp;[CodePen](https://codepen.io/jhildenbiddle)
 
-## Stats
+## Statistics
 
 <picture>
   <source
@@ -61,6 +53,32 @@ Thank you!
     alt="Top languages"
     valign="top">
 </picture>
+
+
+<details>
+  <summary>View project statistics</summary>
+<br>
+  
+Project                                                                                               | GitHub&nbsp;Stars                                                                                         | Direct&nbsp;Downloads                                                                                            | CDN&nbsp;Downloads
+----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------
+[canvas-size](https://github.com/jhildenbiddle/canvas-size)                                           | ![](https://img.shields.io/github/stars/jhildenbiddle/canvas-size?style=flat-square)                      | ![](https://img.shields.io/npm/dm/canvas-size?label=npm&style=flat-square)                                       | ![](https://data.jsdelivr.com/v1/package/npm/canvas-size/badge)
+[class-change](https://github.com/jhildenbiddle/class-change)                                         | ![](https://img.shields.io/github/stars/jhildenbiddle/class-change?style=flat-square)                     | ![](https://img.shields.io/npm/dm/class-change?label=npm&style=flat-square)                                      | ![](https://data.jsdelivr.com/v1/package/npm/class-change/badge)
+[create-elms](https://github.com/jhildenbiddle/create-elms)                                           | ![](https://img.shields.io/github/stars/jhildenbiddle/create-elms?style=flat-square)                      | ![](https://img.shields.io/npm/dm/create-elms?label=npm&style=flat-square)                                       | ![](https://data.jsdelivr.com/v1/package/npm/create-elms/badge)
+[css-device-frames](https://jhildenbiddle.github.io/css-device-frames)                                | ![](https://img.shields.io/github/stars/jhildenbiddle/css-device-frames?style=flat-square)                | ![](https://img.shields.io/npm/dm/css-device-frames?label=npm&style=flat-square)                                 | ![](https://data.jsdelivr.com/v1/package/npm/css-device-frames/badge)
+[css-vars-ponyfill](https://jhildenbiddle.github.io/css-vars-ponyfill)                                | ![](https://img.shields.io/github/stars/jhildenbiddle/css-vars-ponyfill?style=flat-square)                | ![](https://img.shields.io/npm/dm/css-vars-ponyfill?label=npm&style=flat-square)                                 | ![](https://data.jsdelivr.com/v1/package/npm/css-vars-ponyfill/badge)
+[docsify-plugin-ethicalads](https://jhildenbiddle.github.io/docsify-plugin-ethicalads)                | ![](https://img.shields.io/github/stars/jhildenbiddle/docsify-plugin-ethicalads?style=flat-square)        | ![](https://img.shields.io/npm/dm/docsify-plugin-ethicalads?label=npm&style=flat-square)                         | ![](https://data.jsdelivr.com/v1/package/npm/docsify-plugin-ethicalads/badge)
+[docsify-plugin-runkit](https://jhildenbiddle.github.io/docsify-plugin-runkit)                        | ![](https://img.shields.io/github/stars/jhildenbiddle/docsify-plugin-runkit?style=flat-square)            | ![](https://img.shields.io/npm/dm/docsify-plugin-runkit?label=npm&style=flat-square)                             | ![](https://data.jsdelivr.com/v1/package/npm/docsify-plugin-runkit/badge)
+[docsify-tabs](https://jhildenbiddle.github.io/docsify-tabs)                                          | ![](https://img.shields.io/github/stars/jhildenbiddle/docsify-tabs?style=flat-square)                     | ![](https://img.shields.io/npm/dm/docsify-tabs?label=npm&style=flat-square)                                      | ![](https://data.jsdelivr.com/v1/package/npm/docsify-tabs/badge)
+[docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable)                                | ![](https://img.shields.io/github/stars/jhildenbiddle/docsify-themeable?style=flat-square)                | ![](https://img.shields.io/npm/dm/docsify-themeable?label=npm&style=flat-square)                                 | ![](https://data.jsdelivr.com/v1/package/npm/docsify-themeable/badge)
+[docsify](https://docsify.js.org)                                                                     | ![](https://img.shields.io/github/stars/docsifyjs/docsify?style=flat-square)                              | ![](https://img.shields.io/npm/dm/docsify?label=npm&style=flat-square)                                           | ![](https://data.jsdelivr.com/v1/package/npm/docsify/badge)
+[get-css-data](https://github.com/jhildenbiddle/get-css-data)                                         | ![](https://img.shields.io/github/stars/jhildenbiddle/get-css-data?style=flat-square)                     | ![](https://img.shields.io/npm/dm/get-css-data?label=npm&style=flat-square)                                      | ![](https://data.jsdelivr.com/v1/package/npm/get-css-data/badge)
+[karma-file-fixtures-preprocessor](https://github.com/jhildenbiddle/karma-file-fixtures-preprocessor) | ![](https://img.shields.io/github/stars/jhildenbiddle/karma-file-fixtures-preprocessor?style=flat-square) | ![](https://img.shields.io/npm/dm/karma-file-fixtures-preprocessor?label=npm&style=flat-square)                  | ![](https://data.jsdelivr.com/v1/package/npm/karma-file-fixtures-preprocessor/badge)
+[mergician](https://jhildenbiddle.github.io/mergician)                                                | ![](https://img.shields.io/github/stars/jhildenbiddle/mergician?style=flat-square)                        | ![](https://img.shields.io/npm/dm/mergician?label=npm&style=flat-square)                                         | ![](https://data.jsdelivr.com/v1/package/npm/mergician/badge)
+[sass-utilities](https://jhildenbiddle.github.io/sass-utilities)                                      | ![](https://img.shields.io/github/stars/jhildenbiddle/sass-utilities?style=flat-square)                   | ![](https://img.shields.io/npm/dm/sass-utilities?label=npm&style=flat-square)                                    | ![](https://data.jsdelivr.com/v1/package/npm/sass-utilities/badge)
+[typora-themeable](https://jhildenbiddle.github.io/typora-themeable)                                  | ![](https://img.shields.io/github/stars/jhildenbiddle/typora-themeable?style=flat-square)                 | ![](https://img.shields.io/github/downloads/jhildenbiddle/typora-themeable/total?label=github&style=flat-square) | ![](https://data.jsdelivr.com/v1/package/gh/jhildenbiddle/typora-themeable/badge)
+[vertical-rhythm-reset](https://jhildenbiddle.github.io/vertical-rhythm-reset)                        | ![](https://img.shields.io/github/stars/jhildenbiddle/vertical-rhythm-reset?style=flat-square)            | ![](https://img.shields.io/npm/dm/vertical-rhythm-reset?label=npm&style=flat-square)                             | ![](https://data.jsdelivr.com/v1/package/npm/vertical-rhythm-reset/badge)
+  
+</details>
 
 ## Noteworthy Projects
 
@@ -97,28 +115,10 @@ Thank you!
 - [get-css-data](https://github.com/jhildenbiddle/get-css-data)<br>
   A micro-library for collecting stylesheet data from link and style nodes.
 
----
+## Sponsorship
 
-<details>
-  <summary>Project statistics</summary>
+A [sponsorship](https://github.com/sponsors/jhildenbiddle) is more than just a way to show appreciation for the open-source authors and projects we rely on; it can be the spark that ignites the next big idea, the inspiration to create something new, and the motivation to share so that others may benefit.
 
-Project                                                                                               | GitHub&nbsp;Stars                                                                                         | Direct&nbsp;Downloads                                                                                            | CDN&nbsp;Downloads
------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------
-[canvas-size](https://github.com/jhildenbiddle/canvas-size)                                           | ![](https://img.shields.io/github/stars/jhildenbiddle/canvas-size?style=flat-square)                      | ![](https://img.shields.io/npm/dm/canvas-size?label=npm&style=flat-square)                                       | ![](https://data.jsdelivr.com/v1/package/npm/canvas-size/badge)
-[class-change](https://github.com/jhildenbiddle/class-change)                                         | ![](https://img.shields.io/github/stars/jhildenbiddle/class-change?style=flat-square)                     | ![](https://img.shields.io/npm/dm/class-change?label=npm&style=flat-square)                                      | ![](https://data.jsdelivr.com/v1/package/npm/class-change/badge)
-[create-elms](https://github.com/jhildenbiddle/create-elms)                                           | ![](https://img.shields.io/github/stars/jhildenbiddle/create-elms?style=flat-square)                      | ![](https://img.shields.io/npm/dm/create-elms?label=npm&style=flat-square)                                       | ![](https://data.jsdelivr.com/v1/package/npm/create-elms/badge)
-[css-device-frames](https://jhildenbiddle.github.io/css-device-frames)                                | ![](https://img.shields.io/github/stars/jhildenbiddle/css-device-frames?style=flat-square)                | ![](https://img.shields.io/npm/dm/css-device-frames?label=npm&style=flat-square)                                 | ![](https://data.jsdelivr.com/v1/package/npm/css-device-frames/badge)
-[css-vars-ponyfill](https://jhildenbiddle.github.io/css-vars-ponyfill)                                | ![](https://img.shields.io/github/stars/jhildenbiddle/css-vars-ponyfill?style=flat-square)                | ![](https://img.shields.io/npm/dm/css-vars-ponyfill?label=npm&style=flat-square)                                 | ![](https://data.jsdelivr.com/v1/package/npm/css-vars-ponyfill/badge)
-[docsify-plugin-ethicalads](https://jhildenbiddle.github.io/docsify-plugin-ethicalads)                | ![](https://img.shields.io/github/stars/jhildenbiddle/docsify-plugin-ethicalads?style=flat-square)        | ![](https://img.shields.io/npm/dm/docsify-plugin-ethicalads?label=npm&style=flat-square)                         | ![](https://data.jsdelivr.com/v1/package/npm/docsify-plugin-ethicalads/badge)
-[docsify-plugin-runkit](https://jhildenbiddle.github.io/docsify-plugin-runkit)                        | ![](https://img.shields.io/github/stars/jhildenbiddle/docsify-plugin-runkit?style=flat-square)            | ![](https://img.shields.io/npm/dm/docsify-plugin-runkit?label=npm&style=flat-square)                             | ![](https://data.jsdelivr.com/v1/package/npm/docsify-plugin-runkit/badge)
-[docsify-tabs](https://jhildenbiddle.github.io/docsify-tabs)                                          | ![](https://img.shields.io/github/stars/jhildenbiddle/docsify-tabs?style=flat-square)                     | ![](https://img.shields.io/npm/dm/docsify-tabs?label=npm&style=flat-square)                                      | ![](https://data.jsdelivr.com/v1/package/npm/docsify-tabs/badge)
-[docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable)                                | ![](https://img.shields.io/github/stars/jhildenbiddle/docsify-themeable?style=flat-square)                | ![](https://img.shields.io/npm/dm/docsify-themeable?label=npm&style=flat-square)                                 | ![](https://data.jsdelivr.com/v1/package/npm/docsify-themeable/badge)
-[docsify](https://docsify.js.org)                                                                     | ![](https://img.shields.io/github/stars/docsifyjs/docsify?style=flat-square)                              | ![](https://img.shields.io/npm/dm/docsify?label=npm&style=flat-square)                                           | ![](https://data.jsdelivr.com/v1/package/npm/docsify/badge)
-[get-css-data](https://github.com/jhildenbiddle/get-css-data)                                         | ![](https://img.shields.io/github/stars/jhildenbiddle/get-css-data?style=flat-square)                     | ![](https://img.shields.io/npm/dm/get-css-data?label=npm&style=flat-square)                                      | ![](https://data.jsdelivr.com/v1/package/npm/get-css-data/badge)
-[karma-file-fixtures-preprocessor](https://github.com/jhildenbiddle/karma-file-fixtures-preprocessor) | ![](https://img.shields.io/github/stars/jhildenbiddle/karma-file-fixtures-preprocessor?style=flat-square) | ![](https://img.shields.io/npm/dm/karma-file-fixtures-preprocessor?label=npm&style=flat-square)                  | ![](https://data.jsdelivr.com/v1/package/npm/karma-file-fixtures-preprocessor/badge)
-[mergician](https://jhildenbiddle.github.io/mergician)                                                | ![](https://img.shields.io/github/stars/jhildenbiddle/mergician?style=flat-square)                        | ![](https://img.shields.io/npm/dm/mergician?label=npm&style=flat-square)                                         | ![](https://data.jsdelivr.com/v1/package/npm/mergician/badge)
-[sass-utilities](https://jhildenbiddle.github.io/sass-utilities)                                      | ![](https://img.shields.io/github/stars/jhildenbiddle/sass-utilities?style=flat-square)                   | ![](https://img.shields.io/npm/dm/sass-utilities?label=npm&style=flat-square)                                    | ![](https://data.jsdelivr.com/v1/package/npm/sass-utilities/badge)
-[typora-themeable](https://jhildenbiddle.github.io/typora-themeable)                                  | ![](https://img.shields.io/github/stars/jhildenbiddle/typora-themeable?style=flat-square)                 | ![](https://img.shields.io/github/downloads/jhildenbiddle/typora-themeable/total?label=github&style=flat-square) | ![](https://data.jsdelivr.com/v1/package/gh/jhildenbiddle/typora-themeable/badge)
-[vertical-rhythm-reset](https://jhildenbiddle.github.io/vertical-rhythm-reset)                        | ![](https://img.shields.io/github/stars/jhildenbiddle/vertical-rhythm-reset?style=flat-square)            | ![](https://img.shields.io/npm/dm/vertical-rhythm-reset?label=npm&style=flat-square)                             | ![](https://data.jsdelivr.com/v1/package/npm/vertical-rhythm-reset/badge)
-  
-</details>
+If you benefit from my projects or contributions, please consider lending your support and encouraging future efforts by [becoming a sponsor](https://github.com/sponsors/jhildenbiddle).
+
+Thank you! 🙏🏻
