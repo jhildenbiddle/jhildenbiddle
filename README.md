@@ -62,6 +62,8 @@ I launched my first open-source project here on GitHub back in 2016. Since that 
   A clean, customizable, typography-focused theme system for the markdown editor, [Typora](https://typora.io/).
 - [CSS Device Frames](https://jhildenbiddle.github.io/css-device-frames)<br>
   A collection of single-element, CSS-only application and device frames with support for multiple themes and customization via CSS custom properties.
+- [rollup-plugin-source-hash](https://github.com/jhildenbiddle/rollup-plugin-source-hash)<br>
+  A rollup.js plugin that inserts hash values based on the pre-bundled source code into a bundle's code and/or filename.
 
 ### Docsify
 
@@ -70,20 +72,20 @@ I launched my first open-source project here on GitHub back in 2016. Since that 
 - [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable)<br>
   A delightfully simple theme system for docsify.js.
 - [docsify-tabs](https://jhildenbiddle.github.io/docsify-tabs)<br>
-  A plugin for rendering tabbed content from markdown.  
+  A plugin for rendering tabbed content from markdown.
 - [docsify-plugin-ethicalads](https://jhildenbiddle.github.io/docsify-plugin-ethicalads)<br>
-  A plugin for rendering ad placements from EthicalAds.  
+  A plugin for rendering ad placements from EthicalAds.
 - [docsify-plugin-runkit](https://jhildenbiddle.github.io/docsify-plugin-runkit)<br>
   A plugin for rendering interactive JavaScript REPLs powered by RunKit.
 
 ### Web Development
 
 - [css-vars-ponyfill](https://jhildenbiddle.github.io/css-vars-ponyfill)<br>
-  A ponyfill that provides client-side support for CSS custom properties (aka "CSS variables") in legacy and modern browsers.  
+  A ponyfill that provides client-side support for CSS custom properties (aka "CSS variables") in legacy and modern browsers.
 - [canvas-size](https://github.com/jhildenbiddle/canvas-size)<br>
-  Determine the maximum size and custom dimension support of an HTML `<canvas>` element.  
+  Determine the maximum size and custom dimension support of an HTML `<canvas>` element.
 - [vertical-rhythm-reset](https://jhildenbiddle.github.io/vertical-rhythm-reset)<br>
-  A Sass/SCSS library for responsive vertical rhythm grids, modular scale typography, and CSS normalization.  
+  A Sass/SCSS library for responsive vertical rhythm grids, modular scale typography, and CSS normalization.
 - [get-css-data](https://github.com/jhildenbiddle/get-css-data)<br>
   A micro-library for collecting stylesheet data from link and style nodes.
 
@@ -100,7 +102,7 @@ Thank you! 🙏🏻
 <details>
   <summary>View project statistics</summary>
 <br>
-  
+
 Project                                                                                               | GitHub&nbsp;Stars                                                                                         | Direct&nbsp;Downloads                                                                                            | CDN&nbsp;Downloads
 ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------
 [canvas-size](https://github.com/jhildenbiddle/canvas-size)                                           | ![](https://img.shields.io/github/stars/jhildenbiddle/canvas-size?style=flat-square)                      | ![](https://img.shields.io/npm/dm/canvas-size?label=npm&style=flat-square)                                       | ![](https://data.jsdelivr.com/v1/package/npm/canvas-size/badge)
@@ -116,8 +118,9 @@ Project                                                                         
 [get-css-data](https://github.com/jhildenbiddle/get-css-data)                                         | ![](https://img.shields.io/github/stars/jhildenbiddle/get-css-data?style=flat-square)                     | ![](https://img.shields.io/npm/dm/get-css-data?label=npm&style=flat-square)                                      | ![](https://data.jsdelivr.com/v1/package/npm/get-css-data/badge)
 [karma-file-fixtures-preprocessor](https://github.com/jhildenbiddle/karma-file-fixtures-preprocessor) | ![](https://img.shields.io/github/stars/jhildenbiddle/karma-file-fixtures-preprocessor?style=flat-square) | ![](https://img.shields.io/npm/dm/karma-file-fixtures-preprocessor?label=npm&style=flat-square)                  | ![](https://data.jsdelivr.com/v1/package/npm/karma-file-fixtures-preprocessor/badge)
 [mergician](https://jhildenbiddle.github.io/mergician)                                                | ![](https://img.shields.io/github/stars/jhildenbiddle/mergician?style=flat-square)                        | ![](https://img.shields.io/npm/dm/mergician?label=npm&style=flat-square)                                         | ![](https://data.jsdelivr.com/v1/package/npm/mergician/badge)
+[rollup-plugin-source-hash](https://jhildenbiddle.github.io/rollup-plugin-source-hash)                | ![](https://img.shields.io/github/stars/jhildenbiddle/rollup-plugin-source-hash?style=flat-square)        | ![](https://img.shields.io/npm/dm/rollup-plugin-source-hash?label=npm&style=flat-square)                         | ![](https://data.jsdelivr.com/v1/package/npm/rollup-plugin-source-hash/badge)
 [sass-utilities](https://jhildenbiddle.github.io/sass-utilities)                                      | ![](https://img.shields.io/github/stars/jhildenbiddle/sass-utilities?style=flat-square)                   | ![](https://img.shields.io/npm/dm/sass-utilities?label=npm&style=flat-square)                                    | ![](https://data.jsdelivr.com/v1/package/npm/sass-utilities/badge)
 [typora-themeable](https://jhildenbiddle.github.io/typora-themeable)                                  | ![](https://img.shields.io/github/stars/jhildenbiddle/typora-themeable?style=flat-square)                 | ![](https://img.shields.io/github/downloads/jhildenbiddle/typora-themeable/total?label=github&style=flat-square) | ![](https://data.jsdelivr.com/v1/package/gh/jhildenbiddle/typora-themeable/badge)
 [vertical-rhythm-reset](https://jhildenbiddle.github.io/vertical-rhythm-reset)                        | ![](https://img.shields.io/github/stars/jhildenbiddle/vertical-rhythm-reset?style=flat-square)            | ![](https://img.shields.io/npm/dm/vertical-rhythm-reset?label=npm&style=flat-square)                             | ![](https://data.jsdelivr.com/v1/package/npm/vertical-rhythm-reset/badge)
-  
+
 </details>
