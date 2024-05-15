@@ -63,7 +63,7 @@ I launched my first open-source project here on GitHub back in 2016. Since that 
 - [CSS Device Frames](https://jhildenbiddle.github.io/css-device-frames)<br>
   A collection of single-element, CSS-only application and device frames with support for multiple themes and customization via CSS custom properties.
 - [rollup-plugin-source-hash](https://github.com/jhildenbiddle/rollup-plugin-source-hash)<br>
-  A rollup.js plugin that inserts hash values based on the pre-bundled source code into a bundle's code and/or filename.
+  A rollup.js plugin plugin that inserts hash values based on pre-bundled source code into filenames and bundled code.
 
 ### Docsify
 
