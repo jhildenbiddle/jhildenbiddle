@@ -7,7 +7,6 @@
 ☀️🎸&nbsp;&nbsp;Living in Austin, TX<br>
 🌧☕️&nbsp;&nbsp;Previously from Seattle, WA<br>
 👨🏻‍🎨👨🏻‍💻&nbsp;&nbsp;20+ years in UI/UX & Web Dev<br>
-🍎🤖&nbsp;&nbsp;Intrigued by Swift and AI/ML<br>
 🧘🏻‍♂️💭&nbsp;&nbsp;Life is short. Be kind.
 
 I launched my first open-source project here on GitHub back in 2016. Since that time I've created and contributed to dozens of projects, most notably as a core team member of [docsify.js](https://github.com/docsifyjs/docsify), the creator of docsify-related projects like [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable), and the creator of web development libraries like [css-vars-ponyfill](https://github.com/jhildenbiddle/css-vars-ponyfill). The positive reaction to these efforts has been the motivation for continuing to do this work. Countless hours, issues, and PRs later, I am still excited to be a part of the open-source community.
